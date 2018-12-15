@@ -1,15 +1,14 @@
 //
-//  SecondViewController.h
+//  Location+CoreDataClass.m
 //  X-Mode
 //
 //  Created by Laurent Daudelin on 12/13/18.
 //  Copyright © 2018 Nemesys Software. All rights reserved.
 //
+//
 
-#import <UIKit/UIKit.h>
+#import "Location+CoreDataClass.h"
 
-@interface SecondViewController : UIViewController
-
+@implementation Location
 
 @end
-

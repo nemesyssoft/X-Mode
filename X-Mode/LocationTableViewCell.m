@@ -1,15 +1,13 @@
 //
-//  FirstViewController.h
+//  LocationTableViewCell.m
 //  X-Mode
 //
 //  Created by Laurent Daudelin on 12/13/18.
 //  Copyright © 2018 Nemesys Software. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "LocationTableViewCell.h"
 
-@interface FirstViewController : UIViewController
-
+@implementation LocationTableViewCell
 
 @end
-
